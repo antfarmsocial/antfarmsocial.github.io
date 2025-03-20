@@ -13,4 +13,4 @@ A web browser-based ant simulator game.
 This repo is for github.io publishing, see [main repo](https://github.com/antfarmsocial/AntFarmSocial) for development.
 
 *************************************
-Created by D.A. Braksator, 2023-2026.
+Created by D.A. Braksator, 2023-2033.
