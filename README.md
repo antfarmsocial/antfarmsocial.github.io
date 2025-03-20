@@ -10,7 +10,7 @@ A web browser-based ant simulator game.
 
 > Influenced by Matt & Mattingly's Ice Cream Social podcast, and Scoop Group.
 
-[Main repo](https://github.com/antfarmsocial/AntFarmSocial)
+This repo is for the github.io releases, see [main repo](https://github.com/antfarmsocial/AntFarmSocial) for development.
 
 *************************************
 Created by D.A. Braksator, 2023-2026.
